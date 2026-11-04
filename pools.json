@@ -1,5 +1,15 @@
 {
  "lucca": {
+  "Jungla": {
+   "campeones": [
+    102,
+    56,
+    32,
+    30,
+    876
+   ],
+   "desde": "2026-11-04T09:06:26Z"
+  },
   "Support": {
    "campeones": [
     101,
